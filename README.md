@@ -1,4 +1,3 @@
-# Projects（项目）
+# Drug Use and Police Activity Analysis（分析美国各州警务活动与娱乐性药物使用的关系）
 
-This respository includes projects from data analyst competitions, personal projects, etc.
-所有的比赛项目、个人项目等都在这里
+
